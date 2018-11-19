@@ -2,19 +2,19 @@
 
 This is a collection of projects that I have contributed to.
 
-### Projects
+#### Projects
 
 
-#### Ground - Recycle App
+##### Ground - Recycle App
 
 https://github.com/michaelbeat/Project_1.git
 
 
-#### GifTastic!
+##### GifTastic!
 
 https://github.com/michaelbeat/GifTastic.git
 
 
-#### Diamonds Are Right
+##### Diamonds Are Right
 
 https://github.com/michaelbeat/unit-4-game.git
